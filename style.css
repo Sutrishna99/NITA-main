@@ -660,6 +660,79 @@ header .logo
     font-size: 2em;
   }
 }
+/*-------------------------------------------*/
+.heading {
+  text-align: center;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.container2 {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.graph-container1 {
+  width: 100%;
+  height: 400px;
+  margin-top: 20px;
+}
+
+.table-container1 {
+  margin-top: 20px;
+}
+
+.graph-container2 {
+  width: 100%;
+  height: 400px;
+  margin-top: 20px;
+}
+
+.table-container2 {
+  margin-top: 20px;
+}
+
+#dataTable1 {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#dataTable1 th,
+#dataTable1 td {
+  padding: 8px;
+  border: 1px solid #ccc;
+}
+
+#dataTable1 th {
+  background-color: #f2f2f2;
+}
+
+#dataTable1 td:first-child {
+  font-weight: bold;
+}
+
+
+
+#dataTable2 {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#dataTable2 th,
+#dataTable2 td {
+  padding: 8px;
+  border: 1px solid #ccc;
+}
+
+#dataTable2 th {
+  background-color: #f2f2f2;
+}
+
+#dataTable2 td:first-child {
+  font-weight: bold;
+}
    
 
 
